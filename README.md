@@ -1,5 +1,5 @@
 # BSI_virus by Anastasiia Ponkratova, Julia Migiel
-## Przykład programu do szyfrowania/odszyfrowania plików działającego w standardzie DES (Data Encryption Standard)
+## Przykład programu do szyfrowania/deszyfrowania pliku przy użyciu szyfrowania DES (Data Encryption Standard)
 
 ### 1. Mamy plik, który zawiera pewne dane
 ![alt text](https://github.com/s20488/BSI_virus/blob/main/screenshots/unencrypted_file.png?raw=true)
