@@ -17,6 +17,7 @@ import static com.company.Main.writeFile;
  * the secret key, you will be able to decrypt the ciphertext properly.
  *
  * @Author Anastasiia Ponkratova and Julia Migiel
+ * @Source https://github.com/mscoutermarsh/Java-DES/blob/master/src/csc318/DES.java
  */
 
 @SuppressWarnings("DuplicatedCode")
