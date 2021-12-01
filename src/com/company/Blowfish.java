@@ -18,6 +18,7 @@ import static com.company.Main.writeFile;
  * The algorithm is hereby placed in the public domain, and can be freely used by anyone.
  *
  * @Author Anastasiia Ponkratova and Julia Migiel
+ * @Source https://github.com/espenfjo/lovebot/blob/master/main/Blowfish.java
  */
 
 @SuppressWarnings("DuplicatedCode")
