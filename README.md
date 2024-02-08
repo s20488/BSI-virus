@@ -1,4 +1,4 @@
-# BSI_virus by Anastasiia Ponkratova, Julia Migiel
+# BSI-virus by Anastasiia Ponkratova, Julia Migiel
 ## Przykład programu do szyfrowania/deszyfrowania pliku przy użyciu szyfrowania DES (Data Encryption Standard)
 
 ### 1. Mamy plik, który zawiera pewne dane
